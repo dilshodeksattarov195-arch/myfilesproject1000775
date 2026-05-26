@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchvonnect",
+        "uuid": 3537875,
+        "checksum": "uphiz"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
